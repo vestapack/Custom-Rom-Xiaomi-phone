@@ -27,4 +27,4 @@
    
 10. Format data (In wipe) if failed \-- fastboot format userdata
 
-11. [command]Ready to go
+11. Ready to go
