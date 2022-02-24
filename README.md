@@ -20,7 +20,7 @@
 
 9.  Wipe cache, system, vendor + Sd card PixelExperience.zip install
 #### or open ADB sideload option
-   [command] adb sideload PixelExperience.zip
+   [and] adb sideload PixelExperience.zip
 10. Format data (In wipe) if failed \-- fastboot format userdata
 
 11. Ready to go
