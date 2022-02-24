@@ -17,14 +17,14 @@
 
 7.  Fastboot flash recovery twrp.img
 ##### (adb and fastboot app)https://developer.android.com/studio/releases/platform-tools
-    use cmd to open this directory and run
+use cmd to open this directory and run
     
 8.  fastboot reboot recovery
 
 9.  Wipe cache, system, vendor + Sd card PixelExperience.zip install
 ##### or open ADB sideload option
-   -- adb sideload PixelExperience.zip
+        adb sideload PixelExperience.zip
    
-10. Format data (In wipe) if failed \-- fastboot format userdata
+10. Format data (In wipe) if failed then
 
 11. Ready to go
