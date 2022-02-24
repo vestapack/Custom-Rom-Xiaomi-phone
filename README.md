@@ -1,4 +1,4 @@
-How to install a PE on note 8 pro without freaking problem
+# How to install a PE on note 8 pro without freaking problem
 
 1.  Logout and login xiaomi acc
 
